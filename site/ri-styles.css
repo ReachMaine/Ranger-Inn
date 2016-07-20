@@ -1,0 +1,72 @@
+
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0B0F6A;
+}
+body {
+	background-color: #070739;
+	background-image: url(images/bigback.jpg);
+	background-repeat: no-repeat;
+	margin-top: 0px;
+}
+a:link {
+	color: #C10D0D;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #C10D0D;
+}
+a:hover {
+	text-decoration: underline;
+	color: #C10D0D;
+}
+a:active {
+	text-decoration: none;
+	color: #C10D0D;
+}
+h1 {
+	color: #C10D0D;
+	font-size: 30px;
+}
+h4 {
+	color: #FFFFFF;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+h5 {
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 1.5;
+	font-stretch:extra-expanded;
+
+	
+}
+h7 {
+	color: #FFFFFF;
+	font-size: 9px;
+	line-height: 1.5;
+	font-stretch:extra-expanded;
+
+	
+}
+h2 {
+	color: #0B0F6A;
+	font-size: 18px;
+}
+h3 {
+	color: #0B0F6A;
+	font-size: 15px;
+	text-transform: uppercase;
+}
+h6 {
+	color: #0B0F6A;
+	font-size: 10px;
+}
+
+regionName {
+color: #0B0F6A;
+	font-size: 15px;
+	text-transform: uppercase;
+}
